@@ -1,0 +1,4656 @@
+[
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "c4d310fc0f0f277e574e20f5e2185d4765a1ab3f",
+    "fields": {
+      "total_employee_estimate": 44,
+      "size_range": "11 - 50",
+      "industry": "computer games",
+      "linkedin_url": "https://www.linkedin.com/company/develop-magazine",
+      "domain0": "https://www.develop-online.net",
+      "current_employee_estimate": 6,
+      "name": "microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "0e2e1686dba9d8679391b269d4fb336fff91c013",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/omaha-microsoft-technology-group",
+      "domain0": "https://www.omahamtg.com",
+      "current_employee_estimate": 1,
+      "name": "omaha microsoft technology group"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6a194f78ca9627a0c17d315653ae397454fbe416",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "1995",
+      "industry": "non-profit organization management",
+      "locality": "redmond,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/msaambassadors",
+      "country": "united states",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "microsoft alumni network ambassadors"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "2f99e4efe2356df2cdd79624dccd00fe753c0d4a",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "11 - 50",
+      "year_founded": "2010",
+      "industry": "internet",
+      "locality": "milano,lombardy,italy",
+      "linkedin_url": "https://www.linkedin.com/company/scbn-microsoft-certified-professional---google-partner",
+      "country": "italy",
+      "domain0": "https://www.scbn.biz",
+      "current_employee_estimate": 4,
+      "name": "scbn | microsoft certified professional - google partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "f4aba2ec2a1c4dab035705c3702571a7ab684bb4",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "11 - 50",
+      "year_founded": "2011",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/locatelli-mcc",
+      "domain0": "https://www.locatelli-mcc.com",
+      "current_employee_estimate": 4,
+      "name": "locatelli mcc - designing domotica (voip) solutions combined with microsoft lync services!"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "942679f58049241f3c6808e6fcb879a18ff9061b",
+    "fields": {
+      "total_employee_estimate": 10,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/chelford-solutions-for-microsoft",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "chelford solutions for microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "166e523463dea7b6bda97bbad94f3776f4f61ffd",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "country": "united kingdom",
+      "industry": "computer software",
+      "locality": "woking,surrey,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/troy-consulting-limited",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "troy consulting / microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "8d7ab79553727d6db02042bbc8275bb743dc0fe8",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-pakistan-limited",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft pakistan"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "2e255d87ad9707634fe2701d878ab495976904df",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "online media",
+      "linkedin_url": "https://www.linkedin.com/company/server-and-management-studios-sams-formerly-max-at-microsoft",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "server and management studios (sams) formerly max at microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "da675c47bb2632c28c31c4eb48dd5a3d99f4250c",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "industry": "logistics and supply chain",
+      "linkedin_url": "https://www.linkedin.com/company/global-project-pros-microsoft-partner-ibm-business-partner-",
+      "domain0": "https://www.domis.rs",
+      "current_employee_estimate": 3,
+      "name": "global project pros (microsoft partner, ibm business partner)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "eced149b013c084e36bd87d89f8485645aefa674",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "country": "united states",
+      "industry": "staffing and recruiting",
+      "locality": "independence,ohio,united states",
+      "linkedin_url": "https://www.linkedin.com/company/hirepro-llc",
+      "domain0": "https://www.hirepro.us",
+      "current_employee_estimate": 0,
+      "name": "microsoft(po from hirepro consulting pvt. ltd.)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "0f9d5e48cb54a634760135c59a19a47f58f3fcc1",
+    "fields": {
+      "total_employee_estimate": 47,
+      "size_range": "51 - 200",
+      "year_founded": "1977",
+      "industry": "computer software",
+      "locality": "redmond,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-advanced-analytics",
+      "country": "united states",
+      "domain0": "https://www.",
+      "current_employee_estimate": 28,
+      "name": "microsoft advanced analytics"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "5bd0bdf96be94f46e7e9a62c0b43fe9bb444a1a3",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2017",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/miccampinas",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft innovation center campinas"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "dfaf0539fb5833e93dcc565c6526498cd988af94",
+    "fields": {
+      "total_employee_estimate": 11,
+      "size_range": "11 - 50",
+      "year_founded": "1994",
+      "industry": "information technology and services",
+      "locality": "buenos aires,buenos aires f.d.,argentina",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-users-group-argentina",
+      "country": "argentina",
+      "domain0": "https://www.mug.org.ar",
+      "current_employee_estimate": 5,
+      "name": "microsoft users group argentina"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b0967ef47569eb8bd02a6b40673bcd80af5788bc",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2005",
+      "industry": "professional training & coaching",
+      "linkedin_url": "https://www.linkedin.com/company/mbs-training",
+      "domain0": "https://www.learn4nav.com",
+      "current_employee_estimate": 2,
+      "name": "mbs-training - microsoft dynamics readiness center"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "012b00d57982c4d5ce89f78910913f8fceb187ef",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-gold-partner-switzerland",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "pohn it-consulting gmbh"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "3793c6a168d82f4dc744f0e924766e485b8a88a4",
+    "fields": {
+      "total_employee_estimate": 9,
+      "size_range": "11 - 50",
+      "year_founded": "2005",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/informo-tecnologia-microsoft-partner",
+      "domain0": "https://www.informo.com.br",
+      "current_employee_estimate": 4,
+      "name": "informo tecnologia microsoft partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d8611a51def434f1049b899a99d8a589fbb7b9c1",
+    "fields": {
+      "total_employee_estimate": 276983,
+      "size_range": "10001+",
+      "year_founded": "1975",
+      "industry": "computer software",
+      "locality": "redmond,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft",
+      "country": "united states",
+      "domain0": "https://www.microsoft.com",
+      "current_employee_estimate": 116196,
+      "name": "microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d049ace6ea38c04d507b976900240de946f8227a",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-business-user-forum-e.v.",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "microsoft business user forum e.v."
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "353d375acff6df964b93c7284a9aac9111e23995",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2016",
+      "industry": "information technology and services",
+      "locality": "london,greater london,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/your-brand-in-microsoft-office",
+      "country": "united kingdom",
+      "domain0": "https://www.ybimo.com",
+      "current_employee_estimate": 2,
+      "name": "your brand in microsoft office"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "7526db294f4c5920c25d1c72765069986d1eb51a",
+    "fields": {
+      "total_employee_estimate": 8,
+      "size_range": "1 - 10",
+      "year_founded": "2006",
+      "industry": "information technology and services",
+      "locality": "manresa,catalonia,spain",
+      "linkedin_url": "https://www.linkedin.com/company/mic-productivity",
+      "country": "spain",
+      "domain0": "https://www.productivitycenter.org",
+      "current_employee_estimate": 0,
+      "name": "microsoft innovation center - productivity"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "32b631164f07a8141bfb222511f510260bd70365",
+    "fields": {
+      "total_employee_estimate": 10,
+      "size_range": "11 - 50",
+      "year_founded": "2001",
+      "industry": "information technology and services",
+      "locality": "paris,île-de-france,france",
+      "linkedin_url": "https://www.linkedin.com/company/forum-du-laboratoire-supinfo-des-technologies-microsoft",
+      "country": "france",
+      "domain0": "https://www.forum-microsoft.org",
+      "current_employee_estimate": 9,
+      "name": "forum du laboratoire supinfo des technologies microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "bdbf8f133a984bce2536fee7f1b3110bacb5181d",
+    "fields": {
+      "total_employee_estimate": 10,
+      "size_range": "1 - 10",
+      "industry": "accounting",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-technology-sa",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "microsoft  technology sa"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "c33c3b7225c6f89dcd6981dded7810fde8e79599",
+    "fields": {
+      "total_employee_estimate": 67,
+      "size_range": "51 - 200",
+      "year_founded": "2013",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-accelerator",
+      "domain0": "https://www.microsoftaccelerator.com",
+      "current_employee_estimate": 22,
+      "name": "microsoft accelerator"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "97baaa1ea54d7ec51db4af7791dfd520db2368c5",
+    "fields": {
+      "total_employee_estimate": 22,
+      "size_range": "11 - 50",
+      "year_founded": "1994",
+      "industry": "information technology and services",
+      "locality": "ljubljana,bohinj commune,slovenia",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-slovenija",
+      "country": "slovenia",
+      "domain0": "https://www.microsoft.si",
+      "current_employee_estimate": 7,
+      "name": "microsoft slovenija"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "36a544f4339429275f6ce243e9dc256a921b96f1",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "writing and editing",
+      "linkedin_url": "https://www.linkedin.com/company/havas-test-dublin",
+      "domain0": "https://www.googlie.ie",
+      "current_employee_estimate": 2,
+      "name": "microsoft ireland"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "318666bbe5817f86a37cb67df4cc5eeb12e29f1c",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2001",
+      "industry": "computer software",
+      "locality": "valparaiso,indiana,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-office-365-sign-in",
+      "country": "united states",
+      "domain0": "https://www.microsoftoffice365signin.com",
+      "current_employee_estimate": 0,
+      "name": "microsoft office 365 sign in"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "79a03054a77146f59e57b3163d89106700c2ecf2",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2012",
+      "industry": "information technology and services",
+      "locality": "new delhi,delhi,india",
+      "linkedin_url": "https://www.linkedin.com/company/skill-enhanced-academic-solution-pvt-ltd-microsoft-aep",
+      "country": "india",
+      "domain0": "https://www.seasolution.in",
+      "current_employee_estimate": 0,
+      "name": "skill enhanced academic solution pvt ltd-microsoft aep"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "f028a32c72c8cf913df50da506ead8edf8ead55e",
+    "fields": {
+      "total_employee_estimate": 82,
+      "size_range": "11 - 50",
+      "year_founded": "1993",
+      "industry": "publishing",
+      "locality": "burlington,ontario,canada",
+      "linkedin_url": "https://www.linkedin.com/company/technokids-inc-",
+      "country": "canada",
+      "domain0": "https://www.technokids.com",
+      "current_employee_estimate": 25,
+      "name": "technokids inc. | publisher of microsoft office and google apps technology projects"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "ccb0f282a98d73a055e55e94a02f4c3dec8c7834",
+    "fields": {
+      "total_employee_estimate": 10,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-schweiz-gmbh",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft schweiz gmbh"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "02cb5ed6f70f17323fb4f2bfafc90909ca56350b",
+    "fields": {
+      "total_employee_estimate": 16,
+      "size_range": "11 - 50",
+      "year_founded": "2004",
+      "industry": "computer software",
+      "locality": "irvine,california,united states",
+      "linkedin_url": "https://www.linkedin.com/company/excelandaccess-com",
+      "country": "united states",
+      "domain0": "https://www.excelandaccess.com",
+      "current_employee_estimate": 12,
+      "name": "excel and access, llc - local microsoft excel and access services for business 844-ms-excel"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b998fb35584f0aeb9dbc579e276d9d0511d2da36",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "1994",
+      "industry": "computer software",
+      "locality": "denver,colorado,united states",
+      "linkedin_url": "https://www.linkedin.com/company/daaug",
+      "country": "united states",
+      "domain0": "https://www.daaug.org",
+      "current_employee_estimate": 1,
+      "name": "denver area microsoft access users group"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a9fcc1af5d4e14a6159c743d30cc9affc55988be",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-solutions",
+      "domain0": "https://www.avnetmssolutions.com",
+      "current_employee_estimate": 3,
+      "name": "microsoft solutions"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "4e69dbe5df2044b6337981867ae245c1a2cc3afe",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2017",
+      "industry": "information technology and services",
+      "locality": "vellore,tamil nadu,india",
+      "linkedin_url": "https://www.linkedin.com/company/micvitvellore",
+      "country": "india",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft student technical community — vit vellore"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d9c3acecb317ad08a4a56efd15762a7eafd4fe12",
+    "fields": {
+      "total_employee_estimate": 19,
+      "size_range": "11 - 50",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-partner",
+      "domain0": "https://www.",
+      "current_employee_estimate": 9,
+      "name": "microsoft partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "5654d92cea288323fa57c864358afeb4183b0a93",
+    "fields": {
+      "total_employee_estimate": 14,
+      "size_range": "1 - 10",
+      "year_founded": "2014",
+      "industry": "international trade and development",
+      "locality": "douala,littoral,cameroon",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-mobile",
+      "country": "cameroon",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft mobile"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "eb568248e2df8ce1a8374ed71fa7c5d2183e1f00",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-student-partners-tech-club---bue",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft student partners tech club - bue"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "5ceb4515e4d46c47a7375d601e733f0a9f4ed898",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "higher education",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-nl-students",
+      "domain0": "https://www.dreamspark.com",
+      "current_employee_estimate": 0,
+      "name": "microsoft nl students"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "5c4517af0fb3ece7fff67568765136a38506408c",
+    "fields": {
+      "total_employee_estimate": 11,
+      "size_range": "11 - 50",
+      "year_founded": "2011",
+      "industry": "information technology and services",
+      "locality": "stuart,florida,united states",
+      "linkedin_url": "https://www.linkedin.com/company/communication-square",
+      "country": "united states",
+      "domain0": "https://www.communicationsquare.com",
+      "current_employee_estimate": 7,
+      "name": "communication square llc - microsoft gold partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d76d7024d8443ff9bbd19b9f50f017ba8b7b1773",
+    "fields": {
+      "total_employee_estimate": 14,
+      "size_range": "11 - 50",
+      "country": "romania",
+      "industry": "computer software",
+      "locality": "bucharest,bucuresti,romania",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-student-partners-upb",
+      "domain0": "https://www.",
+      "current_employee_estimate": 5,
+      "name": "microsoft student partners upb"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "02eac5d1b82c86f2e9695d71145f0ef98806bcad",
+    "fields": {
+      "total_employee_estimate": 27,
+      "size_range": "11 - 50",
+      "year_founded": "2011",
+      "industry": "information technology and services",
+      "locality": "yerevan,yerevan,armenia",
+      "linkedin_url": "https://www.linkedin.com/company/microsoftinnovationcenterarmenia",
+      "country": "armenia",
+      "domain0": "https://www.mic.am",
+      "current_employee_estimate": 9,
+      "name": "microsoft innovation center armenia"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "7385774f5fd894833b01e44ba9931a8e5ae98720",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "industry": "electrical/electronic manufacturing",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-oy",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft oy"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d2f88a47084150444a5fb25784102fe0aad119b8",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "1 - 10",
+      "year_founded": "2011",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-tech-club-at-bue",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft tech-club at bue"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "431abf6f7715d05b86cea34fe4e6dbe0a08437af",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "1989",
+      "industry": "information technology and services",
+      "locality": "ottawa,ontario,canada",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-official-curriculum-training",
+      "country": "canada",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "makay services"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6fb7ef01ed0615c83b53f6150211eb5aaaaa0d7b",
+    "fields": {
+      "total_employee_estimate": 10,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-deutschland-gmbh",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "microsoft deutschland gmbh"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "24332cee8bb0a798b9e6f84244b2328ce838b667",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "industry": "information services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-software-belgrade",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft software belgrade"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "179b4df8cd796ffaa5968eef5678ce4674e00e0e",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "11 - 50",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-corporation-i-pvt.-ltd.",
+      "domain0": "https://www.",
+      "current_employee_estimate": 4,
+      "name": "microsoft corporation (i) pvt. ltd."
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "3a2ae60fbab3b2011c8055bb47d47fb23f550b2c",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "1 - 10",
+      "year_founded": "2003",
+      "industry": "computer software",
+      "locality": "berkeley,california,united states",
+      "linkedin_url": "https://www.linkedin.com/company/clickstream-technologies",
+      "country": "united states",
+      "domain0": "https://www.clickstreamtech.com",
+      "current_employee_estimate": 0,
+      "name": "clickstream technologies (acquired by microsoft)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "731bbe0669df22bb291a6ccdb843a05664d7f0d1",
+    "fields": {
+      "total_employee_estimate": 35,
+      "size_range": "11 - 50",
+      "country": "india",
+      "industry": "computer software",
+      "locality": "raurkela,orissa,india",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-campus-club",
+      "domain0": "https://www.microsoftcampusclub.in",
+      "current_employee_estimate": 10,
+      "name": "microsoft campus club"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "de8435516b93af407a364eae313cf0ece66702a7",
+    "fields": {
+      "total_employee_estimate": 21,
+      "size_range": "1 - 10",
+      "industry": "research",
+      "linkedin_url": "https://www.linkedin.com/company/the-microsoft-research---university-of-trento-centre-for-computational-and-systems-biology",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "the microsoft research - university of trento centre for computational and systems biology"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "dfe540f3967f67380be8288763a186acac1cd3df",
+    "fields": {
+      "total_employee_estimate": 12,
+      "size_range": "11 - 50",
+      "industry": "computer & network security",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-nepal",
+      "domain0": "https://www.microsoftstudentpartners.com",
+      "current_employee_estimate": 4,
+      "name": "microsoft nepal"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "737d01bb6ac9ab1a0ff1cac205e4ccf21ebbc4e7",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "research",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center-s-o-jos-dos-campos",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft innovation center são josé dos campos"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "62b8dabedf8ad2b08beff17d5dabe39ac15ac7e3",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-licensing-gp",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft licensing, gp"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "5f1394f1486aa273600e15b39ebcc52c4db204b4",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/kvk-microsoft-american-express",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "kvk, microsoft, american express"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "e5c4983188ab0db711ec7be5b871b157692dff4e",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2012",
+      "industry": "information technology and services",
+      "locality": "rotterdam,zuid-holland,netherlands",
+      "linkedin_url": "https://www.linkedin.com/company/zoutenbier-consultancy",
+      "country": "netherlands",
+      "domain0": "https://www.zoutenbier.nl",
+      "current_employee_estimate": 1,
+      "name": "microsoft consultancy az"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "3d3c6a41eb0e65d7bef4733d614ceda637c95b59",
+    "fields": {
+      "total_employee_estimate": 17,
+      "size_range": "11 - 50",
+      "country": "united states",
+      "industry": "information technology and services",
+      "locality": "boca raton,florida,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-it-academy-at-touro-college-israel",
+      "domain0": "https://www.missupport.com",
+      "current_employee_estimate": 13,
+      "name": "microsoft it academy at touro college israel"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "7893ecc089650f332785af9a2629f5e3736ae152",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/vital-partners-llc-a-microsoft-gold-certified-partner",
+      "domain0": "https://www.vitalpartners.net",
+      "current_employee_estimate": 0,
+      "name": "vital partners, llc a microsoft gold certified partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "19c295de653ff3c205617e6e07b089c4dc4c3d74",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2001",
+      "industry": "computer software",
+      "locality": "poreč,istria,croatia",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-windays-konferencija",
+      "country": "croatia",
+      "domain0": "https://www.windays.hr",
+      "current_employee_estimate": 2,
+      "name": "microsoft windays konferencija"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "3378660452db8a3fded2e287d19cd3e8d05df281",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2013",
+      "industry": "information technology and services",
+      "locality": "santiago,santiago metropolitan,chile",
+      "linkedin_url": "https://www.linkedin.com/company/addx.cl",
+      "country": "chile",
+      "domain0": "https://www.mbolatam.cl",
+      "current_employee_estimate": 3,
+      "name": "mbo - partner especialistas en microsoft dynamics 365"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "de75a5bc75b7d02befd49a7464c112458d1142cf",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/blueworkers-htd-training-microsoft-gold-certified-",
+      "domain0": "https://www.blueworkershtd.co.uk",
+      "current_employee_estimate": 0,
+      "name": "htd training (microsoft gold certified)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "2a43aec736d0db50968b6cc108fce36fe8658e17",
+    "fields": {
+      "total_employee_estimate": 15,
+      "size_range": "1 - 10",
+      "year_founded": "2008",
+      "industry": "information technology and services",
+      "locality": "redmond,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/capptain",
+      "country": "united states",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "capptain, une entreprise microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1d264efa541552062553134e3843e02fd823202e",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-technet-social-forums",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft technet social forums"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a70b4a499d0b56bc63d49a4e71f30515e7161453",
+    "fields": {
+      "total_employee_estimate": 12,
+      "size_range": "1 - 10",
+      "country": "egypt",
+      "industry": "computer software",
+      "locality": "cairo,al qahirah,egypt",
+      "linkedin_url": "https://www.linkedin.com/company/buetc",
+      "domain0": "https://www.buetc.com",
+      "current_employee_estimate": 3,
+      "name": "microsoft student partners tech club"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "89d8690d5cfec4b945dc3b34a280adf0a8917969",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2006",
+      "industry": "information technology and services",
+      "locality": "indianapolis,indiana,united states",
+      "linkedin_url": "https://www.linkedin.com/company/sheathtechnologysolutions",
+      "country": "united states",
+      "domain0": "https://www.sheathtechnologysolutions.com",
+      "current_employee_estimate": 1,
+      "name": "sheath | microsoft csp and saas company"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "58d5f7cb03aae115e03b9fb82dc66dfb90670327",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/sirrus-microsoft-cloud-experts",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "sirrus"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "5bad89296d544bb7875d8deb1c6ee2dfc10fec92",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "education management",
+      "linkedin_url": "https://www.linkedin.com/company/mos-champions-consulting---microsoft-partner",
+      "domain0": "https://www.moschampions.com",
+      "current_employee_estimate": 2,
+      "name": "mos champions consulting - microsoft partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a56746e50d929c1f038de2b5ac3dd055dc92f3e9",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-certifications",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft certifications"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6639e42f32a96f853e751bc531721752256cb741",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/iamcp-denmark-international-association-of-microsoft-certified-partners-",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "iamcp"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "bf4c24d53659246486d5846e3d38f4fdf9587c88",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2010",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-certified-trainer-consultant-mentor",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft certified trainer/consultant/mentor"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "9e394adba4e7fc5ec1bf978e3084bbfd57224d14",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "year_founded": "1989",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-taiwan",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft taiwan 台灣微軟"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "00a1f06a3b181c90839b9b33695bc7443b68491d",
+    "fields": {
+      "total_employee_estimate": 27,
+      "size_range": "11 - 50",
+      "industry": "entertainment",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-zune",
+      "domain0": "https://www.zune.net",
+      "current_employee_estimate": 11,
+      "name": "microsoft zune"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "663dc6b445a733a6e6961b6907a5bac3f546617c",
+    "fields": {
+      "total_employee_estimate": 23,
+      "size_range": "11 - 50",
+      "year_founded": "2007",
+      "industry": "information technology and services",
+      "locality": "berks,west berkshire,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/ag-consultancy-services-limited",
+      "country": "united kingdom",
+      "domain0": "https://www.agcapps.com",
+      "current_employee_estimate": 20,
+      "name": "ag consultancy, specialists in sap, winshuttle and microsoft integration (inc' excel macro)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "66b4529eade0722b1383cb54a644cf4874628f8b",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "consumer services",
+      "linkedin_url": "https://www.linkedin.com/company/calgary-microsoft-user-group",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "calgary microsoft user group"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "89065d021e401f2083175d6759810795ebc3135c",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2011",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/hungarian-user-group-of-microsoft-sql-server",
+      "domain0": "https://www.hug-mssql.hu",
+      "current_employee_estimate": 2,
+      "name": "hungarian user group of microsoft sql server"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "c13937fe45d86d91d64ae707aadee71fb4b1cba1",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2012",
+      "industry": "staffing and recruiting",
+      "linkedin_url": "https://www.linkedin.com/company/naax",
+      "domain0": "https://www.naax.dk",
+      "current_employee_estimate": 0,
+      "name": "naax - microsoft dynamics"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "7f56b6a479a7b9c35b2ac8fc38ada910197c2e90",
+    "fields": {
+      "total_employee_estimate": 16,
+      "size_range": "11 - 50",
+      "year_founded": "1906",
+      "industry": "information services",
+      "locality": "redmond,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/cbre-microsoft",
+      "country": "united states",
+      "domain0": "https://www.",
+      "current_employee_estimate": 15,
+      "name": "cbre | microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "78b8943e42762d98a3d8eb3f4735136abe919caf",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2012",
+      "industry": "internet",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-accelerator-tel-aviv",
+      "country": "israel",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft accelerator tel aviv"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "7c4607b9e090cf19650fc317a3c473dc37fb4e4c",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2000",
+      "industry": "information technology and services",
+      "locality": "roelofarendsveen,south holland,netherlands",
+      "linkedin_url": "https://www.linkedin.com/company/i4ict",
+      "country": "netherlands",
+      "domain0": "https://www.i4ict.com",
+      "current_employee_estimate": 2,
+      "name": "i4ict - apple, microsoft & google apps specialist"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "76948f6d066a31edbd4bf2d30f2520d073265886",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "11 - 50",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-xbox-support",
+      "domain0": "https://www.",
+      "current_employee_estimate": 5,
+      "name": "microsoft xbox support"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "0a2c59241ef75327d79ec9f4341e99b1bb9c42af",
+    "fields": {
+      "total_employee_estimate": 17,
+      "size_range": "11 - 50",
+      "year_founded": "2008",
+      "industry": "computer software",
+      "locality": "noord,noord-brabant,netherlands",
+      "linkedin_url": "https://www.linkedin.com/company/dotwood-crm",
+      "country": "netherlands",
+      "domain0": "https://www.dotwoodcrm.nl",
+      "current_employee_estimate": 6,
+      "name": "dotwood crm - your microsoft cloud partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "fe90a41929aeb5fdf5048669521e58c82a367e25",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "11 - 50",
+      "country": "iran",
+      "industry": "computer software",
+      "locality": "tehran,tehrān,iran",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-original-products-in-iran",
+      "domain0": "https://www.",
+      "current_employee_estimate": 5,
+      "name": "microsoft original products in iran - لایسنس اصلی محصولات مایکروسافت"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "0118d61cfd31fb8e24c9ef0aa9fe4f67fbf520d5",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "1 - 10",
+      "year_founded": "2008",
+      "industry": "professional training & coaching",
+      "linkedin_url": "https://www.linkedin.com/company/partner-development-centre-asia-pacific",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "microsoft partner development centre asia pacific"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "ae0817ecf1023697188586070e75e2d09bdc22f1",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-certified-professional-magazine",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft certified professional magazine"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "f6320e40d06e9d97000652bb57dc5e00756d336b",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "1998",
+      "industry": "information technology and services",
+      "locality": "dubai,dubai,united arab emirates",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-gold-partner-veripark",
+      "country": "united arab emirates",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft gold partner - veripark"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "be00bc6f5b1368039e0461728c45f711793f732d",
+    "fields": {
+      "total_employee_estimate": 10,
+      "size_range": "11 - 50",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-business-solution-nav-and-ax-consultant",
+      "domain0": "https://www.",
+      "current_employee_estimate": 7,
+      "name": "microsoft business solution nav and ax consultant"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "0bcf18b42702438c695fec1953f2a0ddefc660e2",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "year_founded": "2011",
+      "industry": "computer & network security",
+      "locality": "pleasanton,california,united states",
+      "linkedin_url": "https://www.linkedin.com/company/ciphergraph-networks",
+      "country": "united states",
+      "domain0": "https://www.ciphergraph.com",
+      "current_employee_estimate": 0,
+      "name": "ciphergraph networks (microsoft accelerator)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1d526183f3f422b8521c28a5ffdadc0fbccce660",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoftstudentpartners",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft student partners russia"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "15e91a0d2dd4ae7c477e8eda806a8de7095a6426",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2015",
+      "industry": "information technology and services",
+      "locality": "brisbane,queensland,australia",
+      "linkedin_url": "https://www.linkedin.com/company/brisbane-office-365-user-group",
+      "country": "australia",
+      "domain0": "https://www.365community.org",
+      "current_employee_estimate": 1,
+      "name": "brisbane microsoft 365 meetup"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "fa173eeca373cadabb80712618e27af576261af6",
+    "fields": {
+      "total_employee_estimate": 360,
+      "size_range": "501 - 1000",
+      "year_founded": "2000",
+      "industry": "information technology and services",
+      "locality": "midrand,gauteng,south africa",
+      "linkedin_url": "https://www.linkedin.com/company/eoh-microsoft-services",
+      "country": "south africa",
+      "domain0": "https://www.eohamp.co.za",
+      "current_employee_estimate": 182,
+      "name": "eoh: a microsoft partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "c889d816776e23706be82c216a440f1facfe7c67",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "year_founded": "2013",
+      "industry": "internet",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-pulse",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "bing pulse"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "9e6cadd5a2c143b44bf2ffe1c2fa2377abb6983c",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/northern-ireland-microsoft-technologies-user-group",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "northern ireland microsoft technologies user group (nimtug)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "cf8c1fb93c0002b745a03f0e40ead587235c3b29",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-engineering-limited",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "microsoft engineering limited"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1f53dee523d11de61b9118e939fa1183e4fb31be",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center-tourism-technologies",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "mictt palma"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "2b8b4999eafcbbb5addd173fc84b7542e4f749fd",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "industry": "computer & network security",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-operations-puerto-rico-llc",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft operations puerto rico, llc"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "e2a182f9acda201adf82e608f1dac3f6b396a23e",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-office",
+      "domain0": "https://www.office.com",
+      "current_employee_estimate": 1,
+      "name": "microsoft office"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "732f4e855280829871e6ab13db3f8e8479943736",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "year_founded": "1994",
+      "industry": "information technology and services",
+      "locality": "casablanca,grand casablanca,morocco",
+      "linkedin_url": "https://www.linkedin.com/company/astoine",
+      "country": "morocco",
+      "domain0": "https://www.astoine.com",
+      "current_employee_estimate": 2,
+      "name": "astoine \"gold certified microsoft cloud technology\" maroc"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "4e2fea46e4db51114a3dbc800b08f196cb681682",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "1993",
+      "industry": "computer software",
+      "locality": "budapest,budapest,hungary",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-magyarorsz-g-kft-",
+      "country": "hungary",
+      "domain0": "https://www.microsoft.hu",
+      "current_employee_estimate": 1,
+      "name": "microsoft magyarország kft."
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "9ebfd0eeaaeeefae118b8940fe9576f387f44d4d",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-open-technologies",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft open technologies, inc."
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "4cf7255fefe266b43736c08ea891ea6344adacdf",
+    "fields": {
+      "total_employee_estimate": 18,
+      "size_range": "11 - 50",
+      "year_founded": "1992",
+      "industry": "information technology and services",
+      "locality": "kirkland,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/directions-on-microsoft",
+      "country": "united states",
+      "domain0": "https://www.directionsonmicrosoft.com",
+      "current_employee_estimate": 12,
+      "name": "directions on microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "cd063b128271415c87f20309ece8ea0e7025f7d3",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-business-solutions",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft business solutions"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "2d75856556a2f562a5b9956b713f6cff6577a452",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "11 - 50",
+      "year_founded": "2005",
+      "industry": "e-learning",
+      "linkedin_url": "https://www.linkedin.com/company/this-is-it",
+      "domain0": "https://www.e-thisisit.com",
+      "current_employee_estimate": 4,
+      "name": "this is it | time saving and efficiency training for microsoft office"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6ae20d2a885d1e122602c98ef7e7e8ba03876fd2",
+    "fields": {
+      "total_employee_estimate": 15,
+      "size_range": "11 - 50",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-dynamics-nav",
+      "domain0": "https://www.",
+      "current_employee_estimate": 10,
+      "name": "microsoft dynamics nav"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "dc2e767a1e56e49b2b61d703b30ddcfcca519b86",
+    "fields": {
+      "total_employee_estimate": 117,
+      "size_range": "51 - 200",
+      "year_founded": "2009",
+      "industry": "computer software",
+      "locality": "belo horizonte,minas gerais,brazil",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center-belo-horizonte",
+      "country": "brazil",
+      "domain0": "https://www.micbh.com.br",
+      "current_employee_estimate": 39,
+      "name": "microsoft innovation center belo horizonte"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1413112cec383b3af47acb3d583ce67805a88ac0",
+    "fields": {
+      "total_employee_estimate": 22,
+      "size_range": "11 - 50",
+      "industry": "higher education",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center",
+      "domain0": "https://www.",
+      "current_employee_estimate": 7,
+      "name": "universidade católica de petrópolis"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "9f2c76cffc2c60a60bcd03a8909533f78b8bbc91",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "11 - 50",
+      "year_founded": "2007",
+      "industry": "research",
+      "locality": "sleman,yogyakarta,indonesia",
+      "linkedin_url": "https://www.linkedin.com/company/micresearch",
+      "country": "indonesia",
+      "domain0": "https://www.micresearch.net",
+      "current_employee_estimate": 5,
+      "name": "microsoft innovation center yogyakarta"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "8be2181a75bd780458e175fbbef9bcb37e4855ae",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-india-r&d-private-limited",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "microsoft india (r&d) private limited"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a6db2ce48c654588701ed01b54303bd403cbddef",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2012",
+      "industry": "information technology and services",
+      "locality": "brisbane,queensland,australia",
+      "linkedin_url": "https://www.linkedin.com/company/harwood-consulting---microsoft-software-development",
+      "country": "australia",
+      "domain0": "https://www.harwoodconsulting.com.au",
+      "current_employee_estimate": 3,
+      "name": "harwood consulting - microsoft software development"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a68ef3df5f2bb9d94150ec4d891290a74542f474",
+    "fields": {
+      "total_employee_estimate": 20,
+      "size_range": "1 - 10",
+      "year_founded": "2011",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/adactit",
+      "domain0": "https://www.adactit.com",
+      "current_employee_estimate": 1,
+      "name": "adactit | microsoft cloud partner of the year 2015 winner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1644cfc141295ae281c1c09cb1686392392efe47",
+    "fields": {
+      "total_employee_estimate": 80,
+      "size_range": "51 - 200",
+      "country": "united states",
+      "industry": "professional training & coaching",
+      "locality": "durham,north carolina,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-office-training",
+      "domain0": "https://www.audiosolutionz.com",
+      "current_employee_estimate": 49,
+      "name": "microsoft office training"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b384b8cee6b4e32d8bb07680615a341a991d6591",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "public relations and communications",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-puerto-rico-inc",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft puerto rico inc"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "0d8291a35d03fa4a3741003b7ee11ea62a77c385",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-xrm-consultants-llc",
+      "domain0": "https://www.mosaik.ch",
+      "current_employee_estimate": 3,
+      "name": "microsoft xrm consultants, llc"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "21453b2977b7bf972f642e80f825bfef90738b19",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "year_founded": "1995",
+      "industry": "management consulting",
+      "locality": "barcelona,catalonia,spain",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-dynamicsnav",
+      "country": "spain",
+      "domain0": "https://www.abadyn.es",
+      "current_employee_estimate": 1,
+      "name": "microsoft dynamicsnav"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "cb4a911219512db04e4e8e586c34b9a64fed9a74",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center-kharkov-ukraine",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft innovation center | kharkov, ukraine"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "90171d65cd139386a9217799aff3fb78f7debc79",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/spilog-polyn-sie",
+      "domain0": "https://www.spilog.pf",
+      "current_employee_estimate": 3,
+      "name": "spilog | distribution microsoft pacifique francophone"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "19dbbd63604f223418bf76ca95c6ec8e0188a8c5",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2013",
+      "industry": "information technology and services",
+      "locality": "sao paulo,sao paulo,brazil",
+      "linkedin_url": "https://www.linkedin.com/company/trivium-cloud-solutions",
+      "country": "brazil",
+      "domain0": "https://www.trivium.com.br",
+      "current_employee_estimate": 3,
+      "name": "trivium | microsoft partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "57c914b6efe84d8c57e9a367a6ca51597f10f9d2",
+    "fields": {
+      "total_employee_estimate": 8,
+      "size_range": "1 - 10",
+      "year_founded": "2008",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/academia-microsoft-upb---itacad",
+      "domain0": "https://www.itacad.ro",
+      "current_employee_estimate": 3,
+      "name": "academia microsoft, upb - itacad"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "0819793caec0d7bd16da9303eadee7b4aeefdc01",
+    "fields": {
+      "total_employee_estimate": 15,
+      "size_range": "11 - 50",
+      "year_founded": "1988",
+      "industry": "information technology and services",
+      "locality": "aalborg,nordjylland,denmark",
+      "linkedin_url": "https://www.linkedin.com/company/bluestar-plm",
+      "country": "denmark",
+      "domain0": "https://www.bluestarplm.com",
+      "current_employee_estimate": 10,
+      "name": "bluestar plm for microsoft dynamics ax"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "e8942d2d2387ca0996ad54a91597f183525909a7",
+    "fields": {
+      "total_employee_estimate": 8,
+      "size_range": "1 - 10",
+      "year_founded": "2005",
+      "industry": "information technology and services",
+      "locality": "boecillo,castille and león,spain",
+      "linkedin_url": "https://www.linkedin.com/company/centro-de-innovacion-en-movilidad",
+      "country": "spain",
+      "domain0": "https://www.micmovilidad.es",
+      "current_employee_estimate": 0,
+      "name": "centro de innovacion en movilidad - microsoft innovation center"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1f641a05642cf4be0fb8ace66f73a93b35dcf544",
+    "fields": {
+      "total_employee_estimate": 10,
+      "size_range": "1 - 10",
+      "year_founded": "1997",
+      "industry": "information technology and services",
+      "locality": "zagreb,grad zagreb,croatia",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-hrvatska",
+      "country": "croatia",
+      "domain0": "https://www.microsoft.hr",
+      "current_employee_estimate": 3,
+      "name": "microsoft hrvatska"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "03fbb4800e8e7c1dd157e432a57fbc406ae70c6c",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-ventures-accelerator-academy-r-d-hertzelia",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft ventures accelerator academy r&d hertzelia"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b9fe69d4db373aeb435647bb2a6f0a936121f841",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "country": "united states",
+      "industry": "computer software",
+      "locality": "rock springs,wyoming,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-customer-support",
+      "domain0": "https://www.supportonline.help",
+      "current_employee_estimate": 3,
+      "name": "microsoft customer support"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "c33f5a2e3089e6a14deabf2685156d8fb1b95e81",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft.cz",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft cz"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "237bbb6ff96a6bc415b2c85b8f4e7f91ee8e481b",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-financing-bnp-paribas",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft financing / bnp paribas lease group"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "97f85da7e5c1c215752666ca3d6925bfd6347fc0",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "country": "united states",
+      "industry": "computer software",
+      "locality": "washington,district of columbia,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-toll-free-number-1-800-868-1570-microsoft-tollfree-numbe",
+      "domain0": "https://www.akgls.net",
+      "current_employee_estimate": 1,
+      "name": "mcafee antivirus technical support phone number 1-800-769-2805"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "53c583aa224fc8ec97866ade7c1fc9fde1e7babb",
+    "fields": {
+      "total_employee_estimate": 45,
+      "size_range": "51 - 200",
+      "year_founded": "1999",
+      "industry": "information technology and services",
+      "locality": "zottegem,oost-vlaanderen,belgium",
+      "linkedin_url": "https://www.linkedin.com/company/net-it-nv",
+      "country": "belgium",
+      "domain0": "https://www.net-it.be",
+      "current_employee_estimate": 26,
+      "name": "net it - microsoft crm partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6315aeb9f8f68848df34ae1882b3be3d6b9e1235",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "1 - 10",
+      "year_founded": "1975",
+      "industry": "computer software",
+      "locality": "redmond,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-corporation-india-pvt-ltd",
+      "country": "united states",
+      "domain0": "https://www.",
+      "current_employee_estimate": 5,
+      "name": "microsoft corporation india pvt ltd."
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "92265775613eba58a17ea892e3afb150a41ddb95",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "internet",
+      "linkedin_url": "https://www.linkedin.com/company/text'd-llc",
+      "domain0": "https://www.textd.com",
+      "current_employee_estimate": 0,
+      "name": "text’d, llc (vendor of microsoft corporation)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "0d5d5f9a728fd67daf9934a6a7a24f06799d0c82",
+    "fields": {
+      "total_employee_estimate": 19,
+      "size_range": "11 - 50",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/kadamba-sharepoint-solutions",
+      "domain0": "https://www.kadamba.com",
+      "current_employee_estimate": 7,
+      "name": "kadamba software - microsoft sharepoint services"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "76dc527c1d8124ecc86ed9d7b0fdaac88f26e0dd",
+    "fields": {
+      "total_employee_estimate": 470,
+      "size_range": "501 - 1000",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/convergys-microsoft",
+      "domain0": "https://www.",
+      "current_employee_estimate": 177,
+      "name": "convergys/microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "5a9a3801149b083863bcd88fc9751d13d0f91731",
+    "fields": {
+      "total_employee_estimate": 12,
+      "size_range": "11 - 50",
+      "year_founded": "2012",
+      "industry": "computer software",
+      "locality": "nederland,overijssel,netherlands",
+      "linkedin_url": "https://www.linkedin.com/company/point-42-b-v-",
+      "country": "netherlands",
+      "domain0": "https://www.point42.nl",
+      "current_employee_estimate": 9,
+      "name": "point 42 - microsoft professionals"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "ffcbdec3d4be48455d77e2ab9bddb84135287db4",
+    "fields": {
+      "total_employee_estimate": 143,
+      "size_range": "51 - 200",
+      "year_founded": "2014",
+      "industry": "information technology and services",
+      "locality": "reno,nevada,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-licensing",
+      "country": "united states",
+      "domain0": "https://www.nevadaitsolutions.com",
+      "current_employee_estimate": 61,
+      "name": "microsoft licensing"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "06c8c9f1bf08daa537a880676dbb8781c1b50665",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-armenia",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft armenia"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "2e15d0ae66451f4e429baa4e73f1f8f028e79d6f",
+    "fields": {
+      "total_employee_estimate": 25,
+      "size_range": "11 - 50",
+      "year_founded": "1983",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-france",
+      "domain0": "https://www.microsoft.fr",
+      "current_employee_estimate": 8,
+      "name": "microsoft france"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a5630e97b5aaeef296f8e7f1696ee95ccfcd774e",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "1 - 10",
+      "industry": "management consulting",
+      "linkedin_url": "https://www.linkedin.com/company/criativa-marketing-and-solutions",
+      "domain0": "https://www.criativamarketing.com.br",
+      "current_employee_estimate": 1,
+      "name": "criativa marketing and solutions (microsoft partner)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1ea4622aa34da922cd8e7b0fdd84f3b3eda5e188",
+    "fields": {
+      "total_employee_estimate": 59,
+      "size_range": "51 - 200",
+      "industry": "photography",
+      "linkedin_url": "https://www.linkedin.com/company/sony-time-inc.-clorox-gap-corporate-honda-nike-gnc-microsoft-hp-macy's-bloomingdale's",
+      "domain0": "https://www.monalongstyling.com",
+      "current_employee_estimate": 30,
+      "name": "sony, time inc., clorox, gap corporate, honda, nike, gnc, microsoft, hp, macy's, bloomingdale's"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a89b8cadae3114ad609c149525b4cbce0abc039b",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-global-services",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft global services"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "66094c7813fa97f70b49ed29a1150b4bdd181fbb",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2011",
+      "industry": "computer games",
+      "linkedin_url": "https://www.linkedin.com/company/vidgent",
+      "domain0": "https://www.vidgent.com",
+      "current_employee_estimate": 0,
+      "name": "vidgent (microsoft)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "91766128398e89b4ee1ba04d2b54db916d109ca2",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "industry": "business supplies and equipment",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center-productivity-center",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "microsoft innovation center | productivity center"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "f339ed43281bde9ff60f2d7c688ecada2787ed59",
+    "fields": {
+      "name": "microsoft innovation center - university of indonesia",
+      "locality": "depok,west java,indonesia",
+      "country": "indonesia",
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center-university-of-indonesia",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "total_employee_estimate": 1
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "4cc8d1354c528ce2f7ae267f5d475ce93b64cbe8",
+    "fields": {
+      "total_employee_estimate": 12,
+      "size_range": "11 - 50",
+      "year_founded": "2013",
+      "industry": "design",
+      "locality": "guarulhos,sao paulo,brazil",
+      "linkedin_url": "https://www.linkedin.com/company/go-trainers",
+      "country": "brazil",
+      "domain0": "https://www.gotrainers.com.br",
+      "current_employee_estimate": 5,
+      "name": "go trainers treinamentos especializados em tecnologia (adobe e microsoft)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "7caf2b4f8d44d67c9339bdc011ac3ba052f8a0ef",
+    "fields": {
+      "total_employee_estimate": 8,
+      "size_range": "1 - 10",
+      "year_founded": "2005",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center-vara-din",
+      "domain0": "https://www.miccroatia.com",
+      "current_employee_estimate": 0,
+      "name": "microsoft innovation center varaždin"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "c027a563fccb03413d4e49e6c8ee2530aaea8f5a",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "11 - 50",
+      "industry": "internet",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-wonderlane",
+      "domain0": "https://www.",
+      "current_employee_estimate": 5,
+      "name": "microsoft / wonderlane"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "2adabe4a66486e5dd5473e59458a8e1b7e6e3fe9",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/the-microsoft-research-university-of-trento-centre-for-computational-and-systems-biology-s",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "the microsoft research university of trento centre for computational and systems biology s"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b32b58b405932d2ccce4ceb67daee1133bc64db8",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/aryupay-pte-ltd",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft corporation india pvt ltd."
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "bb28528cb8d2febeae093119d0b42bea1c134516",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2009",
+      "industry": "management consulting",
+      "locality": "mons,hainaut,belgium",
+      "linkedin_url": "https://www.linkedin.com/company/mic-belgique---microsoft-innovation-center-mons",
+      "country": "belgium",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "mic belgique - microsoft innovation center mons"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "461bed150e30eadf73c3064ede476190beeaa4da",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoftware",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoftware s.r.l."
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "ca2f337ef0e4009d3991202c6d5e21e64f6b4228",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "accounting",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-dynamics-gurus-gp-nav-erp-ax",
+      "domain0": "https://www.microsoftdynamicsgpgurus.com",
+      "current_employee_estimate": 0,
+      "name": "microsoft dynamics gurus gp nav erp ax"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "7dff394531298216fa2a2c7d4f282100bc2b6b1a",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "year_founded": "2017",
+      "industry": "information technology and services",
+      "locality": "jacksonville,florida,united states",
+      "linkedin_url": "https://www.linkedin.com/company/msclouditpropodcast",
+      "country": "united states",
+      "domain0": "https://www.msclouditpropodcast.com",
+      "current_employee_estimate": 3,
+      "name": "microsoft cloud it pro podcast"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "71f82f6e0d288ac780c1422b1b0627cbd0a7095f",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2013",
+      "industry": "staffing and recruiting",
+      "locality": "takapuna,auckland,new zealand",
+      "linkedin_url": "https://www.linkedin.com/company/jm-global-search",
+      "country": "new zealand",
+      "domain0": "https://www.jmglobalsearch.com",
+      "current_employee_estimate": 2,
+      "name": "jm global search - recruiting microsoft professionals"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d4618010f07b86e0a36c2d88500be4d4a175728e",
+    "fields": {
+      "total_employee_estimate": 30,
+      "size_range": "11 - 50",
+      "country": "romania",
+      "industry": "computer software",
+      "locality": "iasi,iasi,romania",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-student-partners-uaic",
+      "domain0": "https://www.",
+      "current_employee_estimate": 9,
+      "name": "microsoft student partners uaic"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6d0d5de84ab0b1c6b089c25e01be3a289cd66b20",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/understanding-microsoft",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "understanding microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "f18562bbdf39f44681240d209c78d79dba595539",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "luxury goods & jewelry",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-dynamics-365-advisors",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft dynamics 365 advisors"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d3ea42e9b0400cf0effa246dc4ffb14ea90ba855",
+    "fields": {
+      "total_employee_estimate": 43,
+      "size_range": "11 - 50",
+      "year_founded": "2001",
+      "industry": "computer software",
+      "locality": "montréal,quebec,canada",
+      "linkedin_url": "https://www.linkedin.com/company/solutions-metrix",
+      "country": "canada",
+      "domain0": "https://www.solutionsmetrix.com",
+      "current_employee_estimate": 16,
+      "name": "solutions metrix - certified crm partner (microsoft, oracle, salesforce & sugarcrm)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "2fa8f580160bb952fba5c7cca382d1cf1b7e92f5",
+    "fields": {
+      "total_employee_estimate": 41,
+      "size_range": "51 - 200",
+      "year_founded": "1995",
+      "industry": "civic & social organization",
+      "locality": "redmond,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-alumni-network",
+      "country": "united states",
+      "domain0": "https://www.microsoftalumni.com",
+      "current_employee_estimate": 27,
+      "name": "microsoft alumni network"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6e56581fbdbd0ad490255b97d084eb8789200244",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "internet",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-emea",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft emea"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b1fd571871566568daeb760d43caf002ba423966",
+    "fields": {
+      "total_employee_estimate": 26,
+      "size_range": "11 - 50",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-india",
+      "domain0": "https://www.",
+      "current_employee_estimate": 16,
+      "name": "microsoft india"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "4cb62e840de940f92cc0c1ea4f9e116e7dbab770",
+    "fields": {
+      "total_employee_estimate": 8,
+      "size_range": "1 - 10",
+      "country": "china",
+      "industry": "computer software",
+      "locality": "peking,beijing,china",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-research-asia-alumni",
+      "domain0": "https://www.msra.cn",
+      "current_employee_estimate": 1,
+      "name": "microsoft research asia"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "25e31097fce559516e97592101ed96f7f67b0926",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoftdivision",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "gtplus"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "04c49d53a32f3a2de152d73008437ade153e28c8",
+    "fields": {
+      "total_employee_estimate": 11,
+      "size_range": "11 - 50",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-dynamics-gulf",
+      "domain0": "https://www.dynamics.com",
+      "current_employee_estimate": 7,
+      "name": "microsoft dynamics gulf"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "9e93e10aeb476a871848241a67bbcf9645dcf563",
+    "fields": {
+      "total_employee_estimate": 57,
+      "size_range": "11 - 50",
+      "year_founded": "2011",
+      "industry": "information technology and services",
+      "locality": "brussels,brussels hoofdstedelijk gewest,belgium",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center-brussels",
+      "country": "belgium",
+      "domain0": "https://www.mic-brussels.be",
+      "current_employee_estimate": 8,
+      "name": "microsoft innovation center brussels"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "0b9b7b806898bf29c45d03cda9a0935c3e478eb4",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2002",
+      "industry": "professional training & coaching",
+      "locality": "zapopan,jalisco,mexico",
+      "linkedin_url": "https://www.linkedin.com/company/excellence---capacitación-de-ms-excel",
+      "country": "mexico",
+      "domain0": "https://www.cursosdexcel.com",
+      "current_employee_estimate": 1,
+      "name": "excellence - capacitación microsoft excel"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "fd520c8a03161f0cbd4ff3685328aefb7f815c5a",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-services-arvato-",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft services(bertelsmann group)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1547cdc01d2df828e7fc69e8e49c261505a9151d",
+    "fields": {
+      "total_employee_estimate": 10,
+      "size_range": "11 - 50",
+      "year_founded": "2012",
+      "industry": "health, wellness and fitness",
+      "linkedin_url": "https://www.linkedin.com/company/bhiccare",
+      "domain0": "https://www.bhic.care",
+      "current_employee_estimate": 5,
+      "name": "bluehealth innovation center-supported by microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "c4d8d14975df3db3ba5c66c2ea6961a0fece0927",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2008",
+      "industry": "non-profit organization management",
+      "linkedin_url": "https://www.linkedin.com/company/oryxdev-.net-ug-microsoft-qatar-developers-club-",
+      "domain0": "https://www.oryxdev.net",
+      "current_employee_estimate": 0,
+      "name": "oryxdev .net ug (microsoft qatar developers club)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d61d1794e88ad543e3262a03855a108d3ec79b87",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "computer & network security",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-technical-community-upes",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "microsoft technical community-upes"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b97ad3ffa3632631483b1aac985d775cbd743fb3",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "1 - 10",
+      "industry": "staffing and recruiting",
+      "linkedin_url": "https://www.linkedin.com/company/senterprisesverige",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "senterprise - microsoft professionals"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "292c9de5834848c4b16554749e57dde0ae5f5d96",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "year_founded": "1998",
+      "industry": "professional training & coaching",
+      "locality": "thousand oaks,california,united states",
+      "linkedin_url": "https://www.linkedin.com/company/emagenit",
+      "country": "united states",
+      "domain0": "https://www.emagenit.com",
+      "current_employee_estimate": 2,
+      "name": "microsoft excel training and microsoft excel vba training"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "5240b3822f69b4c43973e7ba883c69e137d265f8",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-bpos",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft bpos"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "28a83a3f36a2963086f2bba6bff8b213f994c296",
+    "fields": {
+      "total_employee_estimate": 56,
+      "size_range": "51 - 200",
+      "year_founded": "2001",
+      "industry": "information technology and services",
+      "locality": "bogotá d.c.,bogota d.c.,colombia",
+      "linkedin_url": "https://www.linkedin.com/company/mdo-consultores-s-a-",
+      "country": "colombia",
+      "domain0": "https://www.srfconsultores.com",
+      "current_employee_estimate": 20,
+      "name": "microsoft dynamics ax"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "992914d27c1460e45cfcc821aa3a76b6ffed53e8",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "1975",
+      "industry": "utilities",
+      "locality": "san isidro,lima region,peru",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-pe",
+      "country": "peru",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft perú"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "aa76e6ff8ee010e106047a01298381809fe68775",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2015",
+      "industry": "information technology and services",
+      "locality": "somerset,somerset,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/training-4-microsoft-crm",
+      "country": "united kingdom",
+      "domain0": "https://www.training4microsoftcrm.co.uk",
+      "current_employee_estimate": 2,
+      "name": "training 4 microsoft crm"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "17c53fd9e67a5d0b21851ec7c0cc3b9862713674",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2016",
+      "industry": "information technology and services",
+      "locality": "chelmsford,essex,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/business-solutions-in-microsoft-technology",
+      "country": "united kingdom",
+      "domain0": "https://www.bsmt.uk",
+      "current_employee_estimate": 2,
+      "name": "business solutions in microsoft technology"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "ee7a439fc988655bd065298ed3855864130d5efc",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2005",
+      "industry": "information technology and services",
+      "locality": "nijverdal,overijssel,netherlands",
+      "linkedin_url": "https://www.linkedin.com/company/mr--access",
+      "country": "netherlands",
+      "domain0": "https://www.mraccess.nl",
+      "current_employee_estimate": 3,
+      "name": "mr. access | microsoft access experts"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "ee31df73adaee31bc730a1277c05f0d87adde555",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "program development",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-powerpoint",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft powerpoint"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b1e24f833524f37484fc1113119131d3c414f77d",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/malaysia-microsoft-project-users-group-mympug-",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "malaysia microsoft project users group (mympug)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "582ae39fe66a54ff96675d7235b6294f7b54fb14",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2007",
+      "industry": "information technology and services",
+      "locality": "oxford,oxfordshire,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/nixey-computer-solutions-ltd",
+      "country": "united kingdom",
+      "domain0": "https://www.nixeysolutions.com",
+      "current_employee_estimate": 1,
+      "name": "nixey computer solutions ltd  - microsoft silver partner windows and devices"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "4ac8d868d39117b1b921672cab15318b7503f444",
+    "fields": {
+      "total_employee_estimate": 65,
+      "size_range": "51 - 200",
+      "year_founded": "2007",
+      "industry": "staffing and recruiting",
+      "locality": "london,greater london,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/cognitive-group",
+      "country": "united kingdom",
+      "domain0": "https://www.cognitive-group.com",
+      "current_employee_estimate": 33,
+      "name": "cognitive group | microsoft talent solutions"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a438626e5c3327b46cd2779aaf4dc726656c5471",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/atlanta-microsoft-messaging-&-mobility-user-group",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "atlanta microsoft messaging & mobility user group"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "3bcb33cbb1dc737c9772935f72a758d9902a5683",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "accounting",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-business-center-nederland",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft business center nederland"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "e54003b87481eb878443b8af412542c9408d2462",
+    "fields": {
+      "total_employee_estimate": 15,
+      "size_range": "11 - 50",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-student-partner-network-in-bangladesh",
+      "domain0": "https://www.",
+      "current_employee_estimate": 7,
+      "name": "microsoft student partner network in bangladesh"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6f3ec0d806f4770d4d7a21c64674c614378a3ed6",
+    "fields": {
+      "total_employee_estimate": 168,
+      "size_range": "51 - 200",
+      "year_founded": "1977",
+      "industry": "computer software",
+      "locality": "mountain view,california,united states",
+      "linkedin_url": "https://www.linkedin.com/company/revolution_analytics",
+      "country": "united states",
+      "domain0": "https://www.",
+      "current_employee_estimate": 63,
+      "name": "microsoft advanced analytics"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "194f499c8d242d45cf0a00ca52f0d0884c6279f1",
+    "fields": {
+      "total_employee_estimate": 13,
+      "size_range": "11 - 50",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/sun-microsoft-pvt.-ltd.",
+      "domain0": "https://www.",
+      "current_employee_estimate": 5,
+      "name": "sun microsoft pvt. ltd."
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "dfed167506d482ca784310a50b556b467fe0016f",
+    "fields": {
+      "name": "microsoft innovation center hainan",
+      "locality": "haikou,hainan,china",
+      "country": "china",
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center-hainan",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "total_employee_estimate": 3
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "20a4c44520d6f22e3d8d00610f1c071c466a741e",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-partner-development-centre---australia",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "pdc australia"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "13fc313505cc2ee9056660b75230225a19aaaa41",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-srl",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft sri lanka"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "44c12408783b9bc33dd595ca43f8a4710fc13257",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "country": "united states",
+      "industry": "consumer services",
+      "locality": "tampa,florida,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-365-support",
+      "domain0": "https://www.microsoft-365-support.com",
+      "current_employee_estimate": 1,
+      "name": "microsoft 365 support"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "0bbd59477fae71af5b6e2b93c0106dc3a5a45bad",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/integral-solutions_3",
+      "domain0": "https://www.integral-solutions.com",
+      "current_employee_estimate": 0,
+      "name": "integral solutions (microsoft dynamics partner), west africa"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "ed2ebf7d40a6d0cb09c1c2a18eafe4882e46ce61",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "1 - 10",
+      "year_founded": "2000",
+      "industry": "information technology and services",
+      "locality": "dubai,dubai,united arab emirates",
+      "linkedin_url": "https://www.linkedin.com/company/webatme",
+      "country": "united arab emirates",
+      "domain0": "https://www.webatme.com",
+      "current_employee_estimate": 0,
+      "name": "webatme - microsoft silver partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "95ab9248673eee96faaee8837146105f1893e772",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/denver-azure-user-group",
+      "domain0": "https://www.azureusergroup.com",
+      "current_employee_estimate": 1,
+      "name": "uk microsoft azure user group"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "88b448f8b3f55aaaa96f9028de0cf615f84d774f",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "country": "united states",
+      "industry": "information technology and services",
+      "locality": "redmond,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoftfasttrack",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft fasttrack"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "ef98bcc27d5e6bb18637acd05367ee45dcde0914",
+    "fields": {
+      "total_employee_estimate": 21,
+      "size_range": "11 - 50",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-ireland",
+      "domain0": "https://www.",
+      "current_employee_estimate": 6,
+      "name": "microsoft ireland"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6a4f48ca42d1052fe7488c3ed9eda7f8da206ea5",
+    "fields": {
+      "total_employee_estimate": 41,
+      "size_range": "11 - 50",
+      "year_founded": "2001",
+      "industry": "information technology and services",
+      "locality": "overland park,kansas,united states",
+      "linkedin_url": "https://www.linkedin.com/company/phonefactor",
+      "country": "united states",
+      "domain0": "https://www.phonefactor.com",
+      "current_employee_estimate": 12,
+      "name": "phonefactor, now a microsoft company"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "f5c86d4214ec384b83512efa5c8a10ee323ec159",
+    "fields": {
+      "total_employee_estimate": 30,
+      "size_range": "11 - 50",
+      "year_founded": "2012",
+      "industry": "non-profit organization management",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-tech-club---must",
+      "domain0": "https://www.musttc.com",
+      "current_employee_estimate": 14,
+      "name": "microsoft tech club - must"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b9b7556f7798fab2a476b010420bf1ea96fd3bc7",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/senior-trainer-for-microsoft-authorized-education-center",
+      "domain0": "https://www.specialfy.com",
+      "current_employee_estimate": 2,
+      "name": "senior trainer for microsoft authorized education center"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "8b147f3616f9a56411a35b9f905b7654f7c7ed05",
+    "fields": {
+      "total_employee_estimate": 9,
+      "size_range": "11 - 50",
+      "year_founded": "2015",
+      "industry": "consumer electronics",
+      "locality": "madrid,madrid,spain",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-insider",
+      "country": "spain",
+      "domain0": "https://www.microsoftinsider.es",
+      "current_employee_estimate": 6,
+      "name": "microsoft insider"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1fae8858b07cf227d905d395cc1744420fa5397e",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "1989",
+      "industry": "animation",
+      "locality": "montréal,quebec,canada",
+      "linkedin_url": "https://www.linkedin.com/company/softimage-microsoft-avid-autodesk",
+      "country": "canada",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "softimage (microsoft/avid /autodesk)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "217248fe757d922090e41bc11cd911e568fc9ce6",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-mvp-programme",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft mvp programme"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "89c498a7a3d1f554ef27eb384f86c9c901dea68e",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "1 - 10",
+      "industry": "management consulting",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-ventures",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft ventures"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "71165cdaa0a20f3a34d47cc612cefd8ad1dba65a",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2017",
+      "industry": "education management",
+      "locality": "phagwara,punjab,india",
+      "linkedin_url": "https://www.linkedin.com/company/mstclpu",
+      "country": "india",
+      "domain0": "https://www.microsoftlpu.com",
+      "current_employee_estimate": 1,
+      "name": "microsoft technical community lpu"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "72ca295eb5cda61376ab505368ca2f1125d3cf84",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "country": "australia",
+      "industry": "computer software",
+      "locality": "denmark,western australia,australia",
+      "linkedin_url": "https://www.linkedin.com/company/dansk-microsoftware-a-s",
+      "domain0": "https://www.danms.dk",
+      "current_employee_estimate": 1,
+      "name": "dansk microsoftware a/s"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "cdc0c8ef7b84068480b7afcc2ad4d8ee31d84015",
+    "fields": {
+      "total_employee_estimate": 27,
+      "size_range": "11 - 50",
+      "year_founded": "2011",
+      "industry": "computer software",
+      "locality": "alexandria,al iskandariyah,egypt",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-student-tech-club---alexandria-university",
+      "country": "egypt",
+      "domain0": "https://www.alexutc.com",
+      "current_employee_estimate": 6,
+      "name": "msp tech club - alexandria university"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "144861542b9e2a06031745077dacf1a894d3c140",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2012",
+      "industry": "information technology and services",
+      "locality": "ellesmere port,cheshire,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/cloud-point",
+      "country": "united kingdom",
+      "domain0": "https://www.cloud-point.co.uk",
+      "current_employee_estimate": 0,
+      "name": "cloud point - all we do is microsoft cloud"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "cfc79a0cf1f261594edd6dc6db571aabcf9abf4d",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2008",
+      "industry": "computer software",
+      "locality": "chicago,illinois,united states",
+      "linkedin_url": "https://www.linkedin.com/company/financeseer-llc",
+      "country": "united states",
+      "domain0": "https://www.financeseer.com",
+      "current_employee_estimate": 0,
+      "name": "financeseer llc (microsoft partner)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b21ea69e4aa4a2ad7e40f46c3badb812f4922423",
+    "fields": {
+      "total_employee_estimate": 64,
+      "size_range": "11 - 50",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-student-partners-bangladesh",
+      "domain0": "https://www.",
+      "current_employee_estimate": 13,
+      "name": "microsoft student partners bangladesh"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b897bbbae08a4e1d9732568a602b945a00f22a6a",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "country": "united states",
+      "industry": "research",
+      "locality": "bellevue,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-user-research",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft user research"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "3705bbbcbd2c7a572bc6ca22f4cbee3451dd0a1d",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "year_founded": "2013",
+      "industry": "information technology and services",
+      "locality": "amsterdam,noord-holland,netherlands",
+      "linkedin_url": "https://www.linkedin.com/company/enterprise-partners---an-sthree-group-company",
+      "country": "netherlands",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "global enterprise partners - experts in sap | microsoft | oracle | salesforce.com |"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "9e3eef6f08b465aac6508efb6d3c18d6e74eb6b3",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "11 - 50",
+      "year_founded": "2015",
+      "industry": "sports",
+      "linkedin_url": "https://www.linkedin.com/company/global-sports-innovation-center-powered-by-microsoft",
+      "domain0": "https://www.sport-gsic.com",
+      "current_employee_estimate": 4,
+      "name": "global sports innovation center powered by microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "7e689dc10645bafd9ffcb5151b25163894832f66",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2005",
+      "industry": "information technology and services",
+      "locality": "bellevue,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/c2s-technologies",
+      "country": "united states",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft corporation - c2s technologies"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "60b6eff27faf199e90b7c46eb68601469f994ba0",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/mccsvvv",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft campus club, svvv"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a5140838fb9ffcda43fa4b8f35cd13ed2abe67f7",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "year_founded": "1975",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-cyprus",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "8e2c78edb005bb5953928fe9cbc6bdca5efdce15",
+    "fields": {
+      "total_employee_estimate": 20,
+      "size_range": "11 - 50",
+      "year_founded": "2009",
+      "industry": "internet",
+      "locality": "cambridge,massachusetts,united states",
+      "linkedin_url": "https://www.linkedin.com/company/boston-microsoft-bizspark-startup-meetup",
+      "country": "united states",
+      "domain0": "https://www.",
+      "current_employee_estimate": 16,
+      "name": "boston microsoft bizspark startup meetup"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "9b47a3e4e12606bc462b22fd34da085f7ad56732",
+    "fields": {
+      "total_employee_estimate": 117,
+      "size_range": "51 - 200",
+      "year_founded": "2009",
+      "industry": "information technology and services",
+      "locality": "mons,hainaut,belgium",
+      "linkedin_url": "https://www.linkedin.com/company/micbelgique",
+      "country": "belgium",
+      "domain0": "https://www.mic-belgique.be",
+      "current_employee_estimate": 18,
+      "name": "mic belgique - microsoft innovation center mons"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b6343d0982aa14a47dcdf557a62a2ff6f0f7f5b6",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "1 - 10",
+      "year_founded": "2014",
+      "industry": "information technology and services",
+      "locality": "aaso,syddanmark,denmark",
+      "linkedin_url": "https://www.linkedin.com/company/axlogic",
+      "country": "denmark",
+      "domain0": "https://www.axlogic.dk",
+      "current_employee_estimate": 2,
+      "name": "axlogic - certificeret microsoft dynamics ax partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6808b80fbfcac61c79e555feca0b1d48f157e510",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "1992",
+      "industry": "computer software",
+      "locality": "athens,attiki,greece",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-hellas",
+      "country": "greece",
+      "domain0": "https://www.microsoft.gr",
+      "current_employee_estimate": 0,
+      "name": "microsoft hellas"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d076321bf67b6a54ccd9d6e7dcc707fe54a3d609",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "year_founded": "2009",
+      "industry": "outsourcing/offshoring",
+      "locality": "thiruvananthapuram,kerala,india",
+      "linkedin_url": "https://www.linkedin.com/company/inteleserv-bpo-services",
+      "country": "india",
+      "domain0": "https://www.inteleserv.com",
+      "current_employee_estimate": 1,
+      "name": "inteleserv bpo services(a microsoft bizspark company)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "0e85f2948ac2f304dce5e07dee34e8e3451f4a8b",
+    "fields": {
+      "total_employee_estimate": 77,
+      "size_range": "11 - 50",
+      "industry": "management consulting",
+      "linkedin_url": "https://www.linkedin.com/company/msbs---microsoft-business-solutions",
+      "domain0": "https://www.",
+      "current_employee_estimate": 9,
+      "name": "msbs - microsoft business solutions"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "26080bb8b194bc6aecbedceaf03a9a944b7f9b7c",
+    "fields": {
+      "total_employee_estimate": 11,
+      "size_range": "1 - 10",
+      "country": "nepal",
+      "industry": "information technology and services",
+      "locality": "kathmandu,central region,nepal",
+      "linkedin_url": "https://www.linkedin.com/company/micnepal",
+      "domain0": "https://www.micneoal.org",
+      "current_employee_estimate": 3,
+      "name": "microsoft innovation center nepal hosted by unlimited"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "acb6e42b81b85f2ef4cbee63e0e1b0950cc7286e",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2017",
+      "industry": "information technology and services",
+      "locality": "baden,aargau,switzerland",
+      "linkedin_url": "https://www.linkedin.com/company/msb365",
+      "country": "switzerland",
+      "domain0": "https://www.msb365.blog",
+      "current_employee_estimate": 2,
+      "name": "msb365 | the microsoft blog"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b9b18e692c04275929ea369f434e1e7534b75962",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2010",
+      "industry": "information services",
+      "locality": "noord,noord-brabant,netherlands",
+      "linkedin_url": "https://www.linkedin.com/company/dux-it-technisch-projectleiders-microsoft",
+      "country": "netherlands",
+      "domain0": "https://www.duxit.nl",
+      "current_employee_estimate": 1,
+      "name": "dux-it"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "c8e0ef6ff40e87a98757ef988fa0b796739b3fc4",
+    "fields": {
+      "total_employee_estimate": 16,
+      "size_range": "11 - 50",
+      "country": "south africa",
+      "industry": "information technology and services",
+      "locality": "bryanston,gauteng,south africa",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-south-africa",
+      "domain0": "https://www.microsoft.co.za",
+      "current_employee_estimate": 9,
+      "name": "microsoft south africa"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "be50e923df54801d559eb644eac1580f92052573",
+    "fields": {
+      "total_employee_estimate": 9,
+      "size_range": "11 - 50",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-2",
+      "domain0": "https://www.",
+      "current_employee_estimate": 6,
+      "name": "microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1793cd4f4c558b534d714713dea067d9f8295823",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/natural-corporations-ltd",
+      "domain0": "https://www.nycartinstallation.com",
+      "current_employee_estimate": 1,
+      "name": "natural corporation (sap sme partner and microsoft partner)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "e0afbf11237f0d54065c231e1d079302e290ae65",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "education management",
+      "linkedin_url": "https://www.linkedin.com/company/international-assoication-of-microsoft-certified-partners-iamcp-of-washington-d.c.",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "new horizons computer learning centers of washington d.c."
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "3583f6ee993a0530456842951b82f3f1b7aa9d2b",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/peter-moyer---microsoft-certified-trainer",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "peter moyer - microsoft certified trainer"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "473619fd64ad179d9866a4e18e4631a013436db4",
+    "fields": {
+      "total_employee_estimate": 65,
+      "size_range": "11 - 50",
+      "year_founded": "1991",
+      "industry": "information technology and services",
+      "locality": "hillerød,capital region,denmark",
+      "linkedin_url": "https://www.linkedin.com/company/soft-flow",
+      "country": "denmark",
+      "domain0": "https://www.softflow.com.lb",
+      "current_employee_estimate": 13,
+      "name": "soft flow (microsoft gold partner) & sap partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "4e545a4659e9a980694831666d9118278088bd63",
+    "fields": {
+      "total_employee_estimate": 10,
+      "size_range": "1 - 10",
+      "year_founded": "2014",
+      "industry": "non-profit organization management",
+      "locality": "cairo,al qahirah,egypt",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-tech-club---cic",
+      "country": "egypt",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "microsoft tech club - cic"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "061adde0bc1e128c5e1fce4ec303c6148163e8d2",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "country": "united kingdom",
+      "industry": "professional training & coaching",
+      "locality": "hertfordshire,hertfordshire,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/enterprise-training-group",
+      "domain0": "https://www.enterprisetraininggroup.co.uk",
+      "current_employee_estimate": 1,
+      "name": "enterprise training group (the providers of microsoft training courses)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "53fa846f42b6b1fb56fd59750ae076039412f089",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/msnchina",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft / shanghai msn network communications technology co. ltd"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "f0dbe62420d02e3b46cc752b7affb0fb180fda04",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2011",
+      "industry": "accounting",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-outlook-tech-support-telephone-number",
+      "domain0": "https://www.supportcontactnumber.com",
+      "current_employee_estimate": 1,
+      "name": "microsoft outlook tech support telephone number"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "09b2dc73bcd4673e0fe777a1f2c7f950474cc9f1",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "1 - 10",
+      "country": "united kingdom",
+      "industry": "staffing and recruiting",
+      "locality": "london,london,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/msemploy",
+      "domain0": "https://www.msemploy.co.uk",
+      "current_employee_estimate": 1,
+      "name": "msemploy - the microsoft recruitment specialists"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "2698e8de7ff8ce6a27029f32ce7a9d6d22460994",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "country": "united kingdom",
+      "industry": "information technology and services",
+      "locality": "london,greater london,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/gallantcloud-games-ltd",
+      "domain0": "https://www.gallantcloud.com",
+      "current_employee_estimate": 1,
+      "name": "gallantcloud games (microsoft ventures accelerator london)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "576eb43c2301a20d4098ba3123454e21612f43c2",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2015",
+      "industry": "information technology and services",
+      "locality": "soest,utrecht,netherlands",
+      "linkedin_url": "https://www.linkedin.com/company/hcs-company-microsoft-services",
+      "country": "netherlands",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "hcs company microsoft services"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "12a977dc6304b2ddaafcca603678be636fca6665",
+    "fields": {
+      "total_employee_estimate": 13,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/centro-de-inova-ao-microsoft",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "centro de inovaçao microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "06a210e122b7a2cffa51983f38dff2dcd81eb15a",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2012",
+      "industry": "computer software",
+      "locality": "bangalore,karnataka,india",
+      "linkedin_url": "https://www.linkedin.com/company/msaccelin",
+      "country": "india",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft accelerator in india"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "fb692532fecefd7acc7642c03f5afc6523cadfb1",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "1975",
+      "industry": "computer software",
+      "locality": "washington,utah,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-download-center",
+      "country": "united states",
+      "domain0": "https://www.softwareoptions.net",
+      "current_employee_estimate": 0,
+      "name": "microsoft download center"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "226c61545b6ec5bcb6b2f286c4b47e419d59939e",
+    "fields": {
+      "total_employee_estimate": 15,
+      "size_range": "11 - 50",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/the-microsoft-dynamics-job-center-us-canada",
+      "domain0": "https://www.",
+      "current_employee_estimate": 10,
+      "name": "the microsoft dynamics job center us/canada"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "7063410f3739ce48e27651e656388f3f0018c7f2",
+    "fields": {
+      "total_employee_estimate": 42,
+      "size_range": "51 - 200",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-office-365",
+      "domain0": "https://www.office2010.bg",
+      "current_employee_estimate": 24,
+      "name": "microsoft office 365"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "fc538c14b60b1519a92851b4cc90ac521578c867",
+    "fields": {
+      "total_employee_estimate": 31,
+      "size_range": "11 - 50",
+      "year_founded": "1996",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-west-and-central-africa-wca-",
+      "domain0": "https://www.",
+      "current_employee_estimate": 11,
+      "name": "microsoft west and central africa (wca)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "97b3276a7590e39aa5cf90b21c7afeb8dce7979d",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "1 - 10",
+      "year_founded": "2014",
+      "industry": "information technology and services",
+      "locality": "al mansurah,ad daqahliyah,egypt",
+      "linkedin_url": "https://www.linkedin.com/company/mtc-met",
+      "country": "egypt",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft tech club - met academy"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a0373da4a3d3cd36a271a1475f976e245b998136",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "year_founded": "2009",
+      "industry": "information technology and services",
+      "locality": "rapperswil,saint gallen,switzerland",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center-rapperswil",
+      "country": "switzerland",
+      "domain0": "https://www.msic.ch",
+      "current_employee_estimate": 2,
+      "name": "microsoft innovation center rapperswil"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "9f6e8acb6e12c96ca22b8828dcd8b09c7b3e5e36",
+    "fields": {
+      "total_employee_estimate": 8,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-innovation-center-mons---belgium",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft innovation center"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "33c7ab09fe3b237dba037fc065c41f9c0a21ebc8",
+    "fields": {
+      "total_employee_estimate": 74,
+      "size_range": "51 - 200",
+      "year_founded": "2005",
+      "industry": "information technology and services",
+      "locality": "paris,île-de-france,france",
+      "linkedin_url": "https://www.linkedin.com/company/javista-microsoft-dynamics-crm-and-social-crm-solutions",
+      "country": "france",
+      "domain0": "https://www.javista.com",
+      "current_employee_estimate": 47,
+      "name": "javista, microsoft dynamics crm and social crm solutions"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "dcbe8c2b768ddc68744d02e3dba60adb5466833f",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-persia",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft persia"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "49724bc8e77d856cc475899d836f9fced661befa",
+    "fields": {
+      "total_employee_estimate": 30,
+      "size_range": "11 - 50",
+      "year_founded": "1988",
+      "industry": "computer software",
+      "locality": "phoenix,arizona,united states",
+      "linkedin_url": "https://www.linkedin.com/company/silverwareinc",
+      "country": "united states",
+      "domain0": "https://www.silverw.com",
+      "current_employee_estimate": 20,
+      "name": "silverware, inc. (microsoft dynamics erp var and intacct cloud financials var)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a7a047b1545790dbb0a126c7ab25af30d25e0106",
+    "fields": {
+      "total_employee_estimate": 16,
+      "size_range": "1 - 10",
+      "year_founded": "2010",
+      "industry": "information technology and services",
+      "locality": "sao paulo,sao paulo,brazil",
+      "linkedin_url": "https://www.linkedin.com/company/lgroup-desenvolvimento-e-treinamento-em-tecnologia-microsoft",
+      "country": "brazil",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "lgroup desenvolvimento e treinamento em tecnologia microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d039486311a909f03f95c92ca69a71100624d538",
+    "fields": {
+      "total_employee_estimate": 37,
+      "size_range": "51 - 200",
+      "year_founded": "2013",
+      "industry": "information technology and services",
+      "locality": "amsterdam,noord-holland,netherlands",
+      "linkedin_url": "https://www.linkedin.com/company/globalenterprisepartners",
+      "country": "netherlands",
+      "domain0": "https://www.globalenterprisepartners.com",
+      "current_employee_estimate": 22,
+      "name": "global enterprise partners - experts in sap | microsoft | oracle | salesforce.com |"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "75726b0956b91000ebe97a5bc581c582cdbe79d8",
+    "fields": {
+      "total_employee_estimate": 80,
+      "size_range": "51 - 200",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-korea",
+      "domain0": "https://www.",
+      "current_employee_estimate": 36,
+      "name": "microsoft korea"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "976a4084c1f42644f8ffd3a668d51897dca63796",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "11 - 50",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-dynamics-ax-brains",
+      "domain0": "https://www.",
+      "current_employee_estimate": 6,
+      "name": "microsoft dynamics ax brains"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "32a6dc55f9a1b579442c2125e642118e130624fd",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "11 - 50",
+      "year_founded": "2012",
+      "industry": "information technology and services",
+      "locality": "valencia,valencia,spain",
+      "linkedin_url": "https://www.linkedin.com/company/d4bsolutions",
+      "country": "spain",
+      "domain0": "https://www.d4bsolutions.com",
+      "current_employee_estimate": 5,
+      "name": "d4bsolutions - expertos en microsoft dynamics nav"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "028cd60d129f9c5cd61ee54ac918118041d19057",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "industrial automation",
+      "linkedin_url": "https://www.linkedin.com/company/microsoftdynamicsfarsi",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft dynamics farsi"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "998d5e4e4bebfdb1a2af75f3b3014ddb1377c736",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2012",
+      "industry": "management consulting",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-alliance-as-a-service",
+      "domain0": "https://www.microsoftaaas.com",
+      "current_employee_estimate": 0,
+      "name": "microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1116be9aca0401e754277ad3af9223dd46d4d335",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "management consulting",
+      "linkedin_url": "https://www.linkedin.com/company/mbuni-capital-group",
+      "domain0": "https://www.mbunicapital.com",
+      "current_employee_estimate": 0,
+      "name": "microsoft inc"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "98c7225454cb1233380f97684f84ea601096146f",
+    "fields": {
+      "total_employee_estimate": 10,
+      "size_range": "1 - 10",
+      "industry": "marketing and advertising",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-corporation-india-pvt.ltd.",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "cpm india"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d55b575a2af418adc21d74f03c79997165c8d4fe",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-azure-partnerscee",
+      "domain0": "https://www.opennessatcee.com",
+      "current_employee_estimate": 1,
+      "name": "microsoft azure partners in cee"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "60b478789ff3798d8de082f4fb731f3998df1311",
+    "fields": {
+      "total_employee_estimate": 11,
+      "size_range": "11 - 50",
+      "year_founded": "2004",
+      "industry": "information technology and services",
+      "locality": "lagos,lagos,nigeria",
+      "linkedin_url": "https://www.linkedin.com/company/snapnetnigeria",
+      "country": "nigeria",
+      "domain0": "https://www.snapnet.com.ng",
+      "current_employee_estimate": 7,
+      "name": "snapnet nigeria tier 1 microsoft cloud service provider"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "58894888aef296df0db649f6a1de488cc230395b",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "year_founded": "2013",
+      "industry": "education management",
+      "locality": "patiala,punjab,india",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-student-chapter",
+      "country": "india",
+      "domain0": "https://www.msctiet.co.in",
+      "current_employee_estimate": 2,
+      "name": "microsoft student chapter"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "7145c887c195186fec89fac41636cabe756949e9",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2012",
+      "industry": "marketing and advertising",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-scaleup-tel-aviv",
+      "country": "israel",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft scaleup tel aviv"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "60e2d3ca0c0769e778ac16790fe61f997b5ca83d",
+    "fields": {
+      "total_employee_estimate": 24,
+      "size_range": "11 - 50",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/chengdu-microsoft-technology-center",
+      "domain0": "https://www.claudiofotografias.com.br",
+      "current_employee_estimate": 14,
+      "name": "chengdu microsoft technology center"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "f0c1f4575d0ea8ec4250fe63f1ea7cc287a0a2ff",
+    "fields": {
+      "total_employee_estimate": 84,
+      "size_range": "51 - 200",
+      "country": "spain",
+      "industry": "information technology and services",
+      "locality": "madrid,madrid,spain",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-germany",
+      "domain0": "https://www.",
+      "current_employee_estimate": 28,
+      "name": "microsoft germany"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b87c133ae23539a301e56f87943d0370bb0b1237",
+    "fields": {
+      "total_employee_estimate": 131,
+      "size_range": "201 - 500",
+      "year_founded": "2002",
+      "industry": "information technology and services",
+      "locality": "lima,lima region,peru",
+      "linkedin_url": "https://www.linkedin.com/company/1to1-corporation",
+      "country": "peru",
+      "domain0": "https://www.corp1to1.com",
+      "current_employee_estimate": 86,
+      "name": "1to1 (partner microsoft)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d27d49cec8730f23f3db79727c5aaf6db1df6aeb",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-great-plains-bus",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "microsoft great plains bus"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "31faeb451921c81d68574fd162035a4b4fa4da76",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-hong-kong-limited",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft hong kong limited"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "8762e3ebf696ebb71feae3a37b0adb496e40509b",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/citrix-microsoft-certified-and-corporate-trainer",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "ms office certified and corporate trainer"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "9c719e98a788d040781f095f447c6e5b644dd4f0",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2015",
+      "industry": "hospital & health care",
+      "locality": "ho chi minh city,ho chi minh,vietnam",
+      "linkedin_url": "https://www.linkedin.com/company/clas-healthcare",
+      "country": "vietnam",
+      "domain0": "https://www.bacsi24x7.vn",
+      "current_employee_estimate": 1,
+      "name": "clas healthcare - microsoft health innovation lab"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "dc08f32350f8a1cd182d539f9113ab4243e2a4be",
+    "fields": {
+      "total_employee_estimate": 46,
+      "size_range": "51 - 200",
+      "year_founded": "1991",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/ajp",
+      "domain0": "https://www.ajp.fr",
+      "current_employee_estimate": 34,
+      "name": "ajp informatique & documents i concessionnaire xerox platinium i microsoft partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "ce03a98ef67c2ed4021a036cd86bf88892c39df4",
+    "fields": {
+      "total_employee_estimate": 11,
+      "size_range": "1 - 10",
+      "year_founded": "1997",
+      "industry": "computer & network security",
+      "locality": "new york,new york,united states",
+      "linkedin_url": "https://www.linkedin.com/company/longi-engineering-p.c.-microsoft-gold-certified-partner-",
+      "country": "united states",
+      "domain0": "https://www.longieng.com",
+      "current_employee_estimate": 1,
+      "name": "longi engineering, p.c. (microsoft gold certified partner)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "b3a108e52b1d07e0b7951313768e5c51e6b1157b",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "consumer services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-regional-sales-corporation",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft regional sales corporation"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "2952721815d762d78fa3f74b4b877a35ace3d76a",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2013",
+      "industry": "information technology and services",
+      "locality": "prague,praha,czechia",
+      "linkedin_url": "https://www.linkedin.com/company/experts-live-europe-it-community-conference",
+      "country": "czechia",
+      "domain0": "https://www.expertslive.eu",
+      "current_employee_estimate": 2,
+      "name": "experts live europe | microsoft community it conference"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d2102fa5d97ee09f21d86731da45c00b50049cec",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2007",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-azure-store",
+      "domain0": "https://www.azurestore.ma",
+      "current_employee_estimate": 1,
+      "name": "microsoft  azure store"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "f64203325eba6fb3333acd48257ba874b0f277f4",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2005",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsofttechclub-bitspilanidubai",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsofttechclub @bitspilanidubai"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "fad434bdf297440e465bef1aad58b5ab2a0ebe5f",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-iceland",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft iceland"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1c7874cb5985166b34b7dcc47881d65719b4de6b",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "year_founded": "2011",
+      "industry": "staffing and recruiting",
+      "locality": "stockholm,stockholm,sweden",
+      "linkedin_url": "https://www.linkedin.com/company/senterprise-ab",
+      "country": "sweden",
+      "domain0": "https://www.senterprise.se",
+      "current_employee_estimate": 1,
+      "name": "senterprise - microsoft professionals"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "afcda7baf2000d3c2cb2ca90c25612b35bf6d0f8",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2015",
+      "industry": "computer software",
+      "locality": "indore,madhya pradesh,india",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-technical-community-indore",
+      "country": "india",
+      "domain0": "https://www.mstcindore.org",
+      "current_employee_estimate": 1,
+      "name": "mstc indore"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "01bee7a332ce0755db88af501f06341d6e96ea40",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "year_founded": "2012",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/metricshub-inc-",
+      "domain0": "https://www.metricshub.com",
+      "current_employee_estimate": 0,
+      "name": "metricshub, inc. (acquired by microsoft)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "095b35a659d3671ec0b53dd23d1d730b46322dc7",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-for-startups",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft for startups"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "96ecb9eab4e3a7816dc1cf3d009f0c3245e1949a",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2013",
+      "industry": "internet",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-cloud-show",
+      "domain0": "https://www.microsoftcloudshow.com",
+      "current_employee_estimate": 1,
+      "name": "microsoft cloud show"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "944c4166e77c3afb77ce4a69f250f3a85027e700",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2017",
+      "industry": "education management",
+      "locality": "bombay,maharashtra,india",
+      "linkedin_url": "https://www.linkedin.com/company/microsoftdynamicsnavtrainingcourseonline",
+      "country": "india",
+      "domain0": "https://www.saicaregroup.in",
+      "current_employee_estimate": 0,
+      "name": "microsoft dynamics nav/crm/ax/gp training course online"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a780eefb671af7b55d0bd255cd0506b40415d65d",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/dcr-associates",
+      "domain0": "https://www.dcrassociates.com",
+      "current_employee_estimate": 1,
+      "name": "dcr associates - microsoft it consultancy"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6012c9c1b1ff8e4825cc23ee02ba6423473258a0",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "country": "united states",
+      "industry": "consumer services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoftcustomersupport",
+      "domain0": "https://www.microsoft-customersupport.com",
+      "current_employee_estimate": 2,
+      "name": "microsoft customer support"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "f3fa3faf91928c8baaa9bafe55553e6eefea1b8a",
+    "fields": {
+      "total_employee_estimate": 55,
+      "size_range": "51 - 200",
+      "year_founded": "1975",
+      "industry": "computer software",
+      "locality": "schiphol,north holland,netherlands",
+      "linkedin_url": "https://www.linkedin.com/company/microsoftnl",
+      "country": "netherlands",
+      "domain0": "https://www.microsoft.nl",
+      "current_employee_estimate": 38,
+      "name": "microsoft nederland"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "9061d9abc3e7e33d3cd7bd207f49dd4e1be07706",
+    "fields": {
+      "total_employee_estimate": 5,
+      "size_range": "1 - 10",
+      "country": "australia",
+      "industry": "graphic design",
+      "locality": "sydney,new south wales,australia",
+      "linkedin_url": "https://www.linkedin.com/company/the-word-guru",
+      "domain0": "https://www.thewordguru.com.au",
+      "current_employee_estimate": 5,
+      "name": "the word guru - microsoft office templates & document formatting"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6221f9a92aa73d5241166d4f46a7a59413fdcdf0",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "year_founded": "2008",
+      "industry": "automotive",
+      "locality": "silverstone,northamptonshire,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/rs-academy",
+      "country": "united kingdom",
+      "domain0": "https://www.rs-academy.com",
+      "current_employee_estimate": 1,
+      "name": "microsoft sp. z o.o."
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "c6b42d1ac0ea095df36e065fff6e684b92733247",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "country": "spain",
+      "industry": "computer software",
+      "locality": "madrid,madrid,spain",
+      "linkedin_url": "https://www.linkedin.com/company/iview-multimedia",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "iview (subsidiary of microsoft)"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "2862a9b6bb15cc9e5fca0f77f81e3fe5ffe34112",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2007",
+      "industry": "staffing and recruiting",
+      "locality": "raleigh,north carolina,united states",
+      "linkedin_url": "https://www.linkedin.com/company/pettis-eng-recruitment-llc",
+      "country": "united states",
+      "domain0": "https://www.pettisengrecruit.com",
+      "current_employee_estimate": 2,
+      "name": "pettis eng recruitment  llc - microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1a2a52a44c9dfa590c31eb5f85280a9dacfc6310",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2008",
+      "industry": "information technology and services",
+      "locality": "getxo,basque country,spain",
+      "linkedin_url": "https://www.linkedin.com/company/grupo-ign",
+      "country": "spain",
+      "domain0": "https://www.ignsl.es",
+      "current_employee_estimate": 2,
+      "name": "grupo ign - microsoft dynamics nav & qlikview"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "53bb3338074909bf4c6ca9c3660068a9b522109e",
+    "fields": {
+      "total_employee_estimate": 61,
+      "size_range": "51 - 200",
+      "industry": "security and investigations",
+      "linkedin_url": "https://www.linkedin.com/company/lmc-consulting-group---microsoft-global-security",
+      "domain0": "https://www.",
+      "current_employee_estimate": 41,
+      "name": "lmc consulting group - microsoft global security"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "df04eb76ae935d6348eda0807b45171e4187011f",
+    "fields": {
+      "total_employee_estimate": 3,
+      "size_range": "1 - 10",
+      "year_founded": "2011",
+      "industry": "higher education",
+      "locality": "denville,new jersey,united states",
+      "linkedin_url": "https://www.linkedin.com/company/techbiz-learning-center-for-ibm-and-microsoft-technologies",
+      "country": "united states",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "techbiz learning center for ibm and microsoft technologies"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "4c2c9db5b76fbab648729edd74b69357753ff602",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "industry": "unknown",
+      "linkedin_url": "https://www.linkedin.com/company/mcl-it-solutions-gmbh",
+      "domain0": "https://www.",
+      "current_employee_estimate": 0,
+      "name": "mcl it solutions | it-systems & consulting company | microsoft gold certified partner"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "00df3c06f9e808b1b187b780d6a6e9b63f9d510b",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2010",
+      "industry": "professional training & coaching",
+      "linkedin_url": "https://www.linkedin.com/company/organization-dynamics-inc.--microsoft-office-training",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "organization dynamics, inc.- microsoft office training"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "5b96341bc72c86c50c55ba39a22b16e9bb63d8d8",
+    "fields": {
+      "total_employee_estimate": 7,
+      "size_range": "1 - 10",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-korea-inc-",
+      "domain0": "https://www.",
+      "current_employee_estimate": 2,
+      "name": "microsoft korea, inc."
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "5938f5f42d9a465b7dd563b84da7804c1d772c15",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "country": "united states",
+      "industry": "information technology and services",
+      "locality": "redmond,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-dynamics",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "microsoft dynamics"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "dedc8182278302dcf2ec2ed0d7013445a8dc0761",
+    "fields": {
+      "total_employee_estimate": 2,
+      "size_range": "1 - 10",
+      "year_founded": "2009",
+      "industry": "hospitality",
+      "locality": "bangkok,krung thep,thailand",
+      "linkedin_url": "https://www.linkedin.com/company/asian-connections-travel-limited-partnership",
+      "country": "thailand",
+      "domain0": "https://www.asian-connections.net",
+      "current_employee_estimate": 0,
+      "name": "microsoft denmark"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "694e5569ffadbee848f1c3ab7a180f158a5506be",
+    "fields": {
+      "total_employee_estimate": 4,
+      "size_range": "1 - 10",
+      "year_founded": "2010",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/mazik-solutions-pvt-ltd",
+      "country": "india",
+      "domain0": "https://www.maziksolutions.com",
+      "current_employee_estimate": 1,
+      "name": "microsoft"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "56b765a6d390eea5af9ddeb343564356007bcf68",
+    "fields": {
+      "total_employee_estimate": 12,
+      "size_range": "11 - 50",
+      "year_founded": "2015",
+      "industry": "staffing and recruiting",
+      "locality": "london,greater london,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/elitesoft-recruitment",
+      "country": "united kingdom",
+      "domain0": "https://www.elitesoft-group.com",
+      "current_employee_estimate": 9,
+      "name": "elitesoft group - leaders in microsoft staffing"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "881898aba9237be91e7adab27e72a08ec3251c81",
+    "fields": {
+      "total_employee_estimate": 11,
+      "size_range": "11 - 50",
+      "year_founded": "2004",
+      "industry": "information technology and services",
+      "linkedin_url": "https://www.linkedin.com/company/eoh-microsoft-coastal",
+      "country": "south africa",
+      "domain0": "https://www.eohmc.co.za",
+      "current_employee_estimate": 9,
+      "name": "eoh mc solutions"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "a8a59ffdadd0e1ae87156746aa958693d0702a0a",
+    "fields": {
+      "total_employee_estimate": 8,
+      "size_range": "1 - 10",
+      "year_founded": "2009",
+      "industry": "management consulting",
+      "locality": "london,england,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/efficace-consulting-group---ecg",
+      "country": "united kingdom",
+      "domain0": "https://www.efficaceconsultinggroup.com",
+      "current_employee_estimate": 3,
+      "name": "microsoft professional services"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "d98241d504b685061a7e9ad65b5274914da2cf37",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "1 - 10",
+      "year_founded": "2012",
+      "industry": "information technology and services",
+      "locality": "vancouver,british columbia,canada",
+      "linkedin_url": "https://www.linkedin.com/company/pmx-dynamics",
+      "country": "canada",
+      "domain0": "https://www.pmxdynamics.com",
+      "current_employee_estimate": 4,
+      "name": "pmx dynamics-business software for the real estate industry powered by microsoft dynamics nav"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "6b53eb8749463717637062dfb001391f2d351236",
+    "fields": {
+      "total_employee_estimate": 12,
+      "size_range": "1 - 10",
+      "industry": "computer software",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-game-studios",
+      "domain0": "https://www.",
+      "current_employee_estimate": 3,
+      "name": "microsoft game studios"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "1eacdec172dba6b3757748f126512042af6f9511",
+    "fields": {
+      "total_employee_estimate": 8,
+      "size_range": "1 - 10",
+      "year_founded": "2007",
+      "industry": "philanthropy",
+      "locality": "redmond,washington,united states",
+      "linkedin_url": "https://www.linkedin.com/company/microsoft-alumni-foundation",
+      "country": "united states",
+      "domain0": "https://www.microsoftalumni.org",
+      "current_employee_estimate": 1,
+      "name": "microsoft alumni foundation"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "7e8b040489810d04ab1d47ba836e878a7eebb8ff",
+    "fields": {
+      "total_employee_estimate": 1,
+      "size_range": "1 - 10",
+      "year_founded": "2008",
+      "industry": "computer software",
+      "locality": "horsens,midtjylland,denmark",
+      "linkedin_url": "https://www.linkedin.com/company/naveksa-a-s",
+      "country": "denmark",
+      "domain0": "https://www.",
+      "current_employee_estimate": 1,
+      "name": "naveksa a/s - manufacturing solutions for microsoft dynamics nav"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  },
+  {
+    "datasetid": "companies-on-linkedin",
+    "recordid": "811bd43811552eecd93bec8fec230910fd9ae730",
+    "fields": {
+      "total_employee_estimate": 6,
+      "size_range": "1 - 10",
+      "year_founded": "2000",
+      "industry": "information technology and services",
+      "locality": "gillingham,kent,united kingdom",
+      "linkedin_url": "https://www.linkedin.com/company/f-keys-ltd-microsoft-training-centre",
+      "country": "united kingdom",
+      "domain0": "https://www.f-keys.co.uk",
+      "current_employee_estimate": 5,
+      "name": "f-keys ltd microsoft training centre"
+    },
+    "record_timestamp": "2019-06-03T09:35:00+02:00"
+  }
+]
